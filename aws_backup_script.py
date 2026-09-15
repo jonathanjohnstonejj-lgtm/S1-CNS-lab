@@ -8,8 +8,8 @@ All credentials below are FAKE and for testing purposes only.
 import boto3
 
 # Fake credentials for testing secret detection
-AWS_ACCESS_KEY_ID = "AKIAU5LH5ROW2YR5AOA6"
-AWS_SECRET_ACCESS_KEY = "aWoy9swh5qDnRv7hGbea9XKO5bxkRNUtcVAYEIc5"
+AWS_ACCESS_KEY_ID = "AKIAU5LH5ROW2YR5AOB8"
+AWS_SECRET_ACCESS_KEY = "aWoy9swh5qDnRv7hGbea9XKO5bxkRNUtcVAYEId4"
 
 # Fake database configuration
 DB_HOST = "prod-database.company.internal"
